@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T16:23:22 IST" name="Suite" finished-at="2024-12-15T16:23:32 IST" duration-ms="9704">
+    <groups>
+    </groups>
+    <test started-at="2024-12-15T16:23:22 IST" name="Test" finished-at="2024-12-15T16:23:32 IST" duration-ms="9704">
+      <class name="Chrometest">
+        <test-method signature="chrome()[pri:0, instance:Chrometest@1817d444]" started-at="2024-12-15T16:23:22 IST" name="chrome" finished-at="2024-12-15T16:23:26 IST" duration-ms="4178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+      </class> <!-- Chrometest -->
+      <class name="geckotest">
+        <test-method signature="firefox()[pri:0, instance:geckotest@76508ed1]" started-at="2024-12-15T16:23:22 IST" name="firefox" finished-at="2024-12-15T16:23:32 IST" duration-ms="9654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefox -->
+      </class> <!-- geckotest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
